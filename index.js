@@ -1,5 +1,5 @@
 // Code your solution here:
 
 function driversWithRevenueOver(driver, revenue) {
-  
+  result = [];
 }
